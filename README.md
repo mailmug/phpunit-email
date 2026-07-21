@@ -41,6 +41,11 @@ Set your MailMug API key and inbox ID as environment variables:
 ```env
 MAILMUG_API_KEY=your-api-key
 MAILMUG_INBOX_ID=your-inbox-id
+
+MAILMUG_SMTP_HOST=smtp.mailmug.net
+MAILMUG_SMTP_PORT=2525
+MAILMUG_SMTP_USERNAME=mailmug-username
+MAILMUG_SMTP_PASSWORD=mailmug-password
 ```
 
 You can find your API key and inbox ID in your MailMug dashboard.
