@@ -2,6 +2,8 @@
 
 namespace MailMug\PHPUnitEmail;
 
+use MailMug\PHPUnitEmail\MailMugException;
+
 final class MailMugClient
 {
     private string $apiKey;

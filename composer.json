@@ -10,12 +10,12 @@
     },
     "autoload": {
         "psr-4": {
-            "MailMug\\PHPUnit\\": "src/"
+            "MailMug\\PHPUnitEmail\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MailMug\\PHPUnit\\Tests\\": "tests/"
+            "MailMug\\PHPUnitEmail\\Tests\\": "tests/"
         }
     },
     "scripts": {
