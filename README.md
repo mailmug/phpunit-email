@@ -30,7 +30,7 @@ With MailMug PHPUnit, you can:
 Install the package with Composer:
 
 ```bash
-composer require --dev mailmug/phpunit
+composer require --dev mailmug/phpunit-email
 ```
 
 ## Configuration
